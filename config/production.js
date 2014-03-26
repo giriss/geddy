@@ -15,7 +15,7 @@
  * limitations under the License.
  *
 */
-var MONGO_PARSED = parse_url("mongodb://akhilesh:ch@tToRenault5.7@oceanic.mongohq.com:10040/app23390318");
+//var MONGO_PARSED = parse_url("mongodb://akhilesh:ch@tToRenault5.7@oceanic.mongohq.com:10040/app23390318");
 var config = {
   appName: 'Geddy App'
 , detailedErrors: false
