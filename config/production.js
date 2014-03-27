@@ -26,12 +26,12 @@ var config = {
   }
 , db: {
     mongo: {
-      username: null
-    , dbname: 'production'
+      username: 'admin'
+    , dbname: 'app23390318'
     , prefix: null
-    , password: null
-    , host: 'localhost'
-    , port: 27017
+    , password: 'Neha1803'
+    , host: 'oceanic.mongohq.com'
+    , port: 10040
     }
   }
 , sessions: {
